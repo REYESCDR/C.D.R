@@ -59,19 +59,11 @@ href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="htt
 #### **🪄 Instalación manual por termux**
 > copie y peguen en termux uno por uno 
 ```bash
-termux-setup-storage
+termux-setup-storage 
 ```
 
 ```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-
-```bash
-git clone https://github.com/REYESCDR/C.D.R && cd C.D.R
-```
-
-```bash
-yarn install && npm install
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn && git clone https://github.com/REYESCDR/C.D.R && cd C.D.R && yarn install && npm install
 ```
 
 ```bash
