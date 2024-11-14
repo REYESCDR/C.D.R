@@ -28,12 +28,12 @@
 ### **`💭 Contáctanos`**
 
 <a
-href="https://wa.me/15102104697?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
+href="https://wa.me/15102104796?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
 
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* https://wa.me/15102104697
+* https://wa.me/15102104796
 
 ---
 
