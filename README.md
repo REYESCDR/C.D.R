@@ -180,7 +180,7 @@ href="https://dash.skyultraplus.com"><img src="https://qu.ax/zFzXF.png" height="
 
 ### **`🔱 COLABORADORES`**
 <a
-href="https://github.com/REYESCDR-s"><img src="https://qu.ax/AcSK.jpg" width="130" height="130" alt="Legendary"/></a>
+href="https://github.com/REYESCDR"><img src="https://qu.ax/AcSK.jpg" width="130" height="130" alt="Legendary"/></a>
 
 </a> 
 
